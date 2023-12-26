@@ -1,0 +1,36 @@
+
+
+
+
+
+
+
+
+
+                                                                    [[blue]]                                _____________   _____________
+                                                                    [[blue]]          _____________________/             \ /             \_____________________
+                                                                    [[blue]]         /|                                   |                                   |\
+                                                                    [[blue]]        |||                                   |                                   |||   
+                                                                    [[blue]]        |||      [[red]]   █▀█[[yellow]] █[[white]] █▄ █[[red]] █▀█ [[blue]]█▄█        |    [[yellow]]  ▄▀█[[white]] █▀█[[blue]] ▀█▀[[red]] █ [[white]]█▀ [[yellow]]▀█▀[[red]]   ▄▀  [[blue]]  |||   
+                                                                    [[blue]]        |||      [[red]]   █▀▀[[yellow]] █[[white]] █ ▀█[[red]] █▄█ [[blue]] █         |    [[yellow]]  █▀█[[white]] █▀▄[[blue]]  █ [[red]] █ [[white]]▄█ [[yellow]] █ [[red]] ▄▀    [[blue]]  |||
+                                                                    [[blue]]        |||                                   |                                   |||
+                                                                    [[blue]]        |||       [[red]]  █▀[[white]] █▀█[[blue]] █▄ █[[yellow]] █▀▀[[white]] █▀     [[blue]]   |     [[yellow]]   █▀▀ [[red]]█▀▀[[white]] █▄ █ [[blue]]█▀█[[red]] █▀▀     [[blue]]  |||     
+                                                                    [[yellow]]        |||     [[red]]    ▄█[[white]] █▄█[[blue]] █ ▀█[[yellow]] █▄█ [[white]]▄█   [[blue]]     |   [[yellow]]     █▄█ [[red]]██▄ [[white]]█ ▀█[[blue]] █▀▄[[red]] ██▄   [[blue]]    |||
+                                                                    [[yellow]]        |||                                   |                                   |||
+                                                                    [[yellow]]        |||                                   |                                   |||
+                                                                    [[yellow]]        |||                                   |                                   |||
+                                                                    [[yellow]]        |||  [[white]]    01001    Paraluman         [[yellow]]  | [[white]]  Adie           Alternative/... [[yellow]] |||
+                                                                    [[yellow]]        |||  [[white]]    01002    Panalangin        [[yellow]]  | [[white]]  Apo Hiking...  Pop/Jazz        [[yellow]] |||
+                                                                    [[yellow]]        |||  [[white]]    01003    Kaleidoscope World[[yellow]]  | [[white]]  Francis M.     Alternative/... [[yellow]] |||
+                                                                    [[yellow]]        |||  [[white]]    01004    Dulo ng hangganan [[yellow]]  | [[white]]  IV of Spades   Alternative/... [[yellow]] |||
+                                                                    [[yellow]]        |||  [[white]]    01005    Hatdog            [[yellow]]  | [[white]]  Zack Tabudlo   Pop             [[yellow]] |||
+                                                                    [[yellow]]        |||  [[white]]    01006    Buksan            [[yellow]]  | [[white]]  Juan Karlos    Alternative/... [[yellow]] |||
+                                                                    [[yellow]]        |||  [[white]]    02017    Pancit            [[yellow]]  | [[white]]  Juan Karlos    Alternative/... [[yellow]] |||
+                                                                    [[red]]        |||  [[white]]    02018    Imahe            [[red]]   | [[white]]  Magnus Haven   Pop            [[red]]  |||
+                                                                    [[red]]        |||  [[white]]    02019    Diwata           [[red]]   | [[white]]  Sam Concepcion Pop            [[red]]  |||
+                                                                    [[red]]        |||  [[white]]    02020    Pano             [[red]]   | [[white]]  Zack Tabudlo   Pop            [[red]]  |||
+                                                                    [[red]]        |||                                   |                                   |||
+                                                                    [[red]]        |||                                   |                                   |||
+                                                                    [[red]]        |||___________________________________|___________________________________|||
+                                                                    [[red]]        \/______________/-------------------\\_//-------------------\______________\/
+                                            
